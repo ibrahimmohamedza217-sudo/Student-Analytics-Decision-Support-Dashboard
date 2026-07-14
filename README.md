@@ -1,7 +1,7 @@
 # 🎓 Student Analytics & Decision Support Dashboard
 
 An interactive bilingual (Arabic & English) web-based analytics dashboard designed to monitor student performance, engagement, and retention. The dashboard transforms raw educational data into actionable insights through dynamic KPIs, interactive visualizations, and comprehensive reports to support data-driven decision making.
-![Uploading image.png…]()
+
 
 
 ---
